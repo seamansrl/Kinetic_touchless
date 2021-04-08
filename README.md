@@ -14,6 +14,9 @@ https://www.youtube.com/watch?v=IPACRgbYThk
 - 1x Placa neopixel x8 LEDs COD:Ws2812 5050
 - 1x Parlante 8ohm
 
-# Atención:
+# Librerias requeridas:
+- https://github.com/adafruit/Adafruit_NeoPixel
+- https://github.com/pololu/vl53l0x-arduino
 
+# Atención:
 El código se presenta solo a modo didáctico y no se recomienda usar en productos comerciales debido a que los componentes usados son los de menor costo posible más no los mas eficientes o seguros.
