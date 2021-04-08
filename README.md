@@ -1,7 +1,7 @@
 # Sensor Touchless para puerta corrediza
 En el siguiente repositor se presenta el código fuente para Arduino UNO del control kinetico para puerta corrediza simil al presentado por la empresa Stuck Labs.
 
-
+![Demo1](Demo1.gif)
 
 # Atención:
 
