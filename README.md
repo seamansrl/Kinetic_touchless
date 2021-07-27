@@ -20,3 +20,12 @@ https://www.youtube.com/watch?v=IPACRgbYThk
 
 # Atención:
 El código se presenta solo a modo didáctico y no se recomienda usar en productos comerciales debido a que los componentes usados son los de menor costo posible más no los mas eficientes o seguros.
+
+# Contactanos en:
+https://www.linkedin.com/company/35599193/admin/
+
+# Seguime en:
+https://www.linkedin.com/in/fernando-p-maniglia/
+
+# Conocenos más en:
+https://www.seamansrl.com.ar
